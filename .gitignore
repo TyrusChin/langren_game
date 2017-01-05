@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# -----------------------------
+
+# system
+.DS_Store
+
+# IDE
+.idea/
